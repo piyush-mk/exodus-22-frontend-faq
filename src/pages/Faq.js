@@ -1,8 +1,20 @@
 import React from 'react'
+// src/App.js
+
+import "./faq.css";
 
 function Faq() {
   return (
-    <div>Faq</div>
+  <section className="faq">
+    <div className="title">
+      <p>
+        Frequently Asked Questions
+      </p>
+    </div>
+    <div className="faq-content">
+      <img className="bg-vector" src="/assets/Group7.svg"/>
+    </div>
+  </section>
   )
 }
 

@@ -1,0 +1,44 @@
+body{
+    position: relative;
+    width: auto;
+    min-height: auto;
+    margin: 0px;
+    padding: 0%;
+    background: linear-gradient(136.06deg, #9D4FB3 -12.44%, #102670 39.32%, #020C20 88.35%);
+    
+}
+.title{
+    position: relative;
+    width: 43.13vw;
+    height: 50.37vh;
+    left: 2.24vw;
+    top: 19.79vh;
+    font-family: 'Century Schoolbook';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4.6875rem;
+    line-height: 111%;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.04rem;
+    
+    color: #FFFFFF;
+    z-index: 1;
+    
+    border: 1px solid #000000;
+    text-shadow: 0px 0.25rem 0.25rem rgba(0, 0, 0, 0.25);    
+}
+#faq-content{
+    position: relative;
+    width: 32.24vw;
+    height: 64.83vh;
+    left: 49.33vw;
+    top: 40.62vh;
+    transform: rotate(91.09deg);
+        
+}
+.bg-vector{
+    z-index: 9;
+    mix-blend-mode: screen;
+}
