@@ -10,7 +10,7 @@ function Faq() {
       <div class="row" id="main-row">
         <div className="column" id="title-col">
           <div className="title">
-            Frequently Asked Questions
+            <p>Frequently Asked Questions</p>
           </div>
           <div className="faq-content">
             <img className="bg-vector" src="/assets/Group7.svg"></img>

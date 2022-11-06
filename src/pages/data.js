@@ -1,33 +1,30 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'How to create an account?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      "Open the Tradebase app to get started and follow the steps. Tradebase doesn't charge a fee to create or maintain your Tradebase account.",
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'How to add a payment method by this app?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+     "Open the Tradebase app to get started and follow the steps. Tradebase doesn't charge a fee to create or maintain your Tradebase account.",
   },
   {
     id: 3,
     title: 'What is BankID?',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
-  },
+      "BankID is a digital identification method that allows you to log in to your bank account and other digital services. It is a secure and easy way to identify yourself online. You can use BankID on your computer, tablet or mobile phone.",  },
   {
     id: 4,
     title: 'Whose birth number can I use?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
-  },
+      "You can use your own birth number or that of a child or other family member. You can also use a birth number that you have been given permission to use by the person who owns it. You can also use a birth number that you have been given permission to use by the person who owns it.",  },
   {
     id: 5,
     title: 'When do I recieve a password ordered by letter?',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
-  },
+      "You will receive your password by letter within 5-10 working days. If you have not received your password within 10 working days, please contact us.",  },
 ]
 export default questions
