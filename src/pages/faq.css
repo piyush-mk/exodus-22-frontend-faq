@@ -18,7 +18,7 @@ body {
 } */
 
 .faq-page {
-  height: 50vw;
+  height: 75vw;
   max-width: 100%;
   background: linear-gradient(136.06deg, #9D4FB3 -12.44%, #102670 39.32%, #020C20 88.35%);
 }
@@ -320,9 +320,11 @@ main {
 
   .title-cont{
     font-size: 1.2em;
+    font-family: 'Century Schoolbook';
   }
   #cont-ans{
-    font-size: 1.2em;
+    font-size: 1.1em;
+    font-family: 'Century Schoolbook';
   }
   
   /* .row {
@@ -356,5 +358,8 @@ main {
     top: 3vh;
     left: 0.2vw;
     z-index: 1;
+  }
+  #info-col{
+    margin-left: 5%;
   }
 }
