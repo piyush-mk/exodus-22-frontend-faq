@@ -21,6 +21,7 @@ body {
   height: 75vw;
   max-width: 100%;
   background: linear-gradient(136.06deg, #9D4FB3 -12.44%, #102670 39.32%, #020C20 88.35%);
+  overflow: scroll;
 }
 
 .row {
