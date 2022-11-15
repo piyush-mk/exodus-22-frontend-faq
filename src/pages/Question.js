@@ -12,7 +12,9 @@ const Question = ({ title, info }) => {
         }}>
           {title}
         </div>
-        <button className={btn}>{showInfo ? <AiOutlineMinus /> : <AiOutlinePlus />}</button>
+        <button className={btn} onClick={() => {
+      setShowInfo(!showInfo)
+    }}>{showInfo ? <AiOutlineMinus /> : <AiOutlinePlus />}</button>
       </header>
       <div className='{showanswer}' id="cont-ans">
         {showInfo && <p>{info}</p>}
